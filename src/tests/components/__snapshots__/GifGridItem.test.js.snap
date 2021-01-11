@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`El componente GifGridItem debe... cargar correctamente 1`] = `
+<div
+  className="card animate__animated animate__fadeIn animate__slow"
+>
+  <img
+    alt="HunterXHunter"
+    src="http://algo.com"
+  />
+  <p>
+    HunterXHunter
+  </p>
+</div>
+`;
